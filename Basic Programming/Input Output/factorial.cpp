@@ -9,7 +9,7 @@ int main() {
         k=k*i;
     }
     cout<<k;
-    
+    // Kya baat hai sir !
 }
 
 
